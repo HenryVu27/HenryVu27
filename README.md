@@ -1,6 +1,6 @@
 # Henry Vu
 
-ML engineer and CS grad student at UT Dallas. Previously researched online algorithms and multi-armed bandits at Amii. B.Sc. Honours in Computing Science from the University of Alberta, summa cum laude.
+ML engineer and CS grad student at UT Dallas. B.Sc. Honours in CS from the University of Alberta, summa cum laude.
 
 ## now
 
