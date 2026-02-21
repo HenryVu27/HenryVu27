@@ -4,12 +4,13 @@ ML engineer and CS grad student at UT Dallas. Previously researched online algor
 
 ## now
 
-- Voice-to-voice RAG on NVIDIA Jetson at [eXRealityAI](https://exreality.ai/)
+- Spatial computing applications at [eXRealityAI](https://exreality.ai/)
+- Voice-to-voice RAG on NVIDIA Jetson at eXRealityAI
 - Ultrasound segmentation for NIH-funded bladder project at ThorMed
-- TA for algorithms and data structures at UT Dallas
 
 ## projects
 
+- [GardenXR](https://www.meta.com/experiences/gardenxr/24200709416226235/) - spatial computing app live on Meta Quest Store, 30k+ interactions
 - [Suspect Detection](https://github.com/HenryVu27/Suspect-Detection) - multi-agent clinical analysis with LangGraph and Gemini
 - [BTS Concert Ticket Simulator](https://github.com/HenryVu27/BTSIM) - interactive web queue simulator
 - [Valentine Surprise](https://github.com/HenryVu27/Valentine) - interactive Valentine's web experience
