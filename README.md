@@ -4,7 +4,7 @@ ML engineer and CS grad student at UT Dallas. Previously researched online algor
 
 ## now
 
-- Spatial computing and voice-to-voice RAG on NVIDIA Jetson at [eXRealityAI](https://exreality.ai/)
+- Spatial computing and voice-to-voice RAG on NVIDIA Jetson as founding ML engineer at [eXRealityAI](https://exreality.ai/)
 - Ultrasound segmentation for NIH-funded bladder project at ThorMed
 
 ## projects
