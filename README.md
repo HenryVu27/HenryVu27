@@ -1,7 +1,7 @@
 # Henry Vu
 
-ML engineer and CS grad student at UT Dallas. Previously researched online algorithms and multi-armed bandits at Amii. Graduated summa cum laude from the University of Alberta.
-
+Founding ML engineer @eXRealityAI and CS grad student @UTDallas. 
+Previously researched online algorithms and multi-armed bandits @Amii. BSc Honors @UAlberta.
 View my portfolio here: https://henryvu.io/
 
 ## now
