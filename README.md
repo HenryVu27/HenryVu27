@@ -2,6 +2,8 @@
 
 ML engineer and CS grad student at UT Dallas. Previously researched online algorithms and multi-armed bandits at Amii. Graduated summa cum laude from the University of Alberta.
 
+View my portfolio here: https://henryvu.io/
+
 ## now
 
 - Spatial computing and voice-to-voice RAG on NVIDIA Jetson as founding ML engineer at [eXRealityAI](https://exreality.ai/)
