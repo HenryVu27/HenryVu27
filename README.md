@@ -14,7 +14,6 @@ View my portfolio here: https://henryvu.io/.
 ## public projects
 
 - [GardenXR](https://www.meta.com/experiences/gardenxr/24200709416226235/) - spatial computing app live on Meta Quest Store, 30k+ interactions.
-- [ADHDAgent](https://github.com/HenryVu27/ADHDAgent) - ADHD coaching chatbot with ReAct agent, hybrid RAG, and safety guardrails.
 - [Suspect Detection](https://github.com/HenryVu27/Suspect-Detection) - multi-agent clinical analysis with LangGraph and Gemini.
 - [BTS Concert Ticket Simulator](https://github.com/HenryVu27/BTSIM) - interactive web queue simulator.
 - [Valentine Surprise](https://github.com/HenryVu27/Valentine) - interactive Valentine's web experience.
