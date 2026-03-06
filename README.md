@@ -11,7 +11,7 @@ View my portfolio here: https://henryvu.io/.
 - Spatial computing and voice-to-voice RAG on NVIDIA Jetson as founding ML engineer at [eXRealityAI](https://exreality.ai/).
 - Ultrasound segmentation for NIH-funded bladder project at ThorMed.
 
-## projects
+## public projects
 
 - [GardenXR](https://www.meta.com/experiences/gardenxr/24200709416226235/) - spatial computing app live on Meta Quest Store, 30k+ interactions.
 - [ADHDAgent](https://github.com/HenryVu27/ADHDAgent) - ADHD coaching chatbot with ReAct agent, hybrid RAG, and safety guardrails.
