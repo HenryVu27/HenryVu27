@@ -4,7 +4,7 @@ Founding ML engineer @eXRealityAI and CS grad student @UTDallas.
 
 Previously researched online algorithms and multi-armed bandits @Amii. BSc Honors @UAlberta.
 
-View my portfolio here: https://henryvu.io/.
+My portfolio: https://henryvu.io/.
 
 ## now
 
