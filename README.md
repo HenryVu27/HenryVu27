@@ -8,8 +8,8 @@ View my portfolio here: https://henryvu.io/.
 
 ## now
 
-- Spatial computing and voice-to-voice RAG on NVIDIA Jetson as founding ML engineer at [eXRealityAI](https://exreality.ai/).
-- Ultrasound segmentation for NIH-funded bladder project at ThorMed.
+- Spatial computing and voice-to-voice agentic frameworks + edge AI as founding ML engineer at [eXRealityAI](https://exreality.ai/).
+- Ultrasound segmentation for NIH-funded project at ThorMed.
 
 ## public projects
 
