@@ -1,14 +1,20 @@
 # Henry Vu
 
-Founding ML engineer [@eXRealityAI](https://exreality.ai/) and CS grad student [@UTDallas](https://www.utdallas.edu/).
+ML engineer [@eXRealityAI](https://exreality.ai/) and CS grad student [@UTDallas](https://www.utdallas.edu/).
 Previously researched online algorithms and multi-armed bandits [@Amii](https://www.amii.ca/). BSc Honors [@UAlberta](https://www.ualberta.ca/).
 
 [henryvu.io](https://henryvu.io) · [blog](https://www.henryvu.blog/)
 
 ## now
 
-- LLM agents, retrieval systems, and edge AI at eXRealityAI.
+- Lead engineer on Smart DVI at eXRealityAI, an AI vehicle-inspection app for Meta Quest 3. I own its AI layer, from photo grading to the agents that run on the headset.
 - Ultrasound segmentation for an NIH-funded project at ThorMed.
+
+## computer vision
+
+- **[Domain-Aligned Pretraining for Ultrasound Bladder Segmentation](https://github.com/HenryVu27/ThorMed)**: U-Net encoders pretrained on thyroid and breast ultrasound, supervised and with SimSiam, reach 96% Dice on bladder segmentation. At 4-bit weights they keep 75 to 93% Dice while ImageNet-initialized encoders fall to 11 to 71%. [Paper](https://github.com/HenryVu27/ThorMed/blob/main/Thormed_ISBI_New.pdf)
+- **[Polyps-Segmentation](https://github.com/HenryVu27/Polyps-Segmentation)**: U-Net and Attention U-Net on Kvasir-SEG and BUSI.
+- **[SAMUS bladder masks](https://github.com/HenryVu27/SAMUS---US-Masks-Generator)**: bladder segmentation masks from the SAMUS ultrasound foundation model, with a refinement step.
 
 ## LLM and agent systems
 
@@ -19,10 +25,8 @@ Previously researched online algorithms and multi-armed bandits [@Amii](https://
 - **[InferenceEngineering](https://github.com/HenryVu27/InferenceEngineering)**: LLM inference engine built from scratch for Qwen2.5-7B on an RTX 5080. In progress.
 - **[frontierllm](https://github.com/HenryVu27/frontierllm)**: study notes and an MDX textbook on pretraining, post-training, distributed training, and evaluation.
 
-## ML research
+## other research
 
-- **[Domain-Aligned Pretraining for Ultrasound Bladder Segmentation](https://github.com/HenryVu27/ISBI2026)**: SimSiam SSL and supervised US30K pretraining, plus 4-bit quantization for edge deployment. In-domain pretraining holds up substantially better than ImageNet initialization under quantization.
-- **[Polyps-Segmentation](https://github.com/HenryVu27/Polyps-Segmentation)**: U-Net and Attention U-Net on Kvasir-SEG and BUSI.
 - **[EEG-Multimodal-Decoding](https://github.com/HenryVu27/EEG-Multimodal-Decoding)**: CNN + Transformer conformer on the ZuCo EEG and eye-tracking dataset.
 - **[PoliticalSarcasm](https://github.com/HenryVu27/PoliticalSarcasm)**: engineered scikit-learn features against a fine-tuned DistilRoBERTa on Reddit comments.
 - **[Multi-armed Bandits and Online Learning](https://github.com/HenryVu27/Multi-armed-Bandits-and-Online-Learning)**: Exp3, Exp4, Thompson sampling, with seminar slides from Amii.
