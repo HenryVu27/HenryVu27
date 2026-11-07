@@ -7,10 +7,9 @@ Previously researched online algorithms and multi-armed bandits [@Amii](https://
 
 ## now
 
-- Lead engineer on Smart DVI at eXRealityAI, an AI vehicle-inspection app for Meta Quest 3. I own its AI layer, from photo grading to the agents that run on the headset.
-- Ultrasound segmentation for an NIH-funded project at ThorMed.
-
-## research
+- Lead engineer at eXRealityAI, building situationally aware agents for the physical world.
+  
+## personal research
 
 - **[simulacrum](https://github.com/HenryVu27/simulacrum)**: which concepts does the world force on any mind, and which does a body add? Trains 14 minds that share one learning rule and one 2D physics world (JAX) but differ in senses and body: human-like, dog-like, blind, smell-only, echolocating, a yoked passive observer. Probes what each knows about object permanence, number, cause and space, then breaks the world's physics on purpose to split each concept into what the mind contributes and what the world forces. Preregistered, with an independent audit of what holds.
 - **[pianolens](https://github.com/HenryVu27/pianolens)**: scoring piano performances on correctness, control, shaping and interpretation against expert performances. Audited so far: expert ratings reduce to 3 to 5 factors, and interpretable MIDI features match a MuQ audio model on unseen works.
@@ -18,7 +17,7 @@ Previously researched online algorithms and multi-armed bandits [@Amii](https://
 
 ## computer vision
 
-- **[Domain-Aligned Pretraining for Ultrasound Bladder Segmentation](https://github.com/HenryVu27/thormed)**: U-Net encoders pretrained on thyroid and breast ultrasound, supervised and with SimSiam, reach 96% Dice on bladder segmentation. At 4-bit weights they keep 75 to 93% Dice while ImageNet-initialized encoders fall to 11 to 71%. [Paper](https://github.com/HenryVu27/thormed/blob/main/Thormed_ISBI_New.pdf)
+- **[Domain-Aligned Pretraining for Ultrasound Bladder Segmentation](https://github.com/HenryVu27/thormed)**: U-Net encoders pretrained on thyroid and breast ultrasound, supervised and with SimSiam, reach 96% Dice on bladder segmentation. At 4-bit weights they keep 75 to 93% Dice while ImageNet-initialized encoders fall to 11 to 71%. NIH funded project at ThorMed [Paper](https://github.com/HenryVu27/thormed/blob/main/Thormed_ISBI_New.pdf)
 - **[polyps](https://github.com/HenryVu27/polyps)**: U-Net and Attention U-Net on Kvasir-SEG and BUSI.
 - **[samus-masks](https://github.com/HenryVu27/samus-masks)**: bladder segmentation masks from the SAMUS ultrasound foundation model, with a refinement step.
 
