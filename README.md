@@ -11,8 +11,8 @@ Previously researched online algorithms and multi-armed bandits [@Amii](https://
 
 ## philosophy
 
-- **[simulacrum](https://github.com/HenryVu27/simulacrum)**: some concepts, like object permanence, number and cause, may be forced on any mind by the world, while others come from having a particular body. Trains minds that share one learner and one physics world but differ in senses and body, then breaks the world's physics to tell the two apart. Round 1 is done; round 2 rebuilds the probes.
-- **[motion](https://github.com/HenryVu27/motion)**: some philosophical ideas are easier to see than to read. Code-drawn films and scroll stories that animate them, starting with the Ship of Theseus and Hegel on recognition. [Watch](https://henryvu.io/motion/)
+- **[simulacrum](https://github.com/HenryVu27/simulacrum)**: some concepts, like object permanence, number and cause, may be forced on any mind by the world, while others come from having a particular body. Trains minds that share one learner and one physics world but differ in senses and body, then breaks the world's physics to tell the two apart. In progress.
+- **[motion](https://github.com/HenryVu27/motion)**: some philosophical ideas are easier to see than to read. Code-drawn films and scroll stories that animate them, starting with the Ship of Theseus and Hegel on recognition. In progress. [Watch](https://henryvu.io/motion/)
 
 ## agents
 
@@ -24,7 +24,7 @@ Previously researched online algorithms and multi-armed bandits [@Amii](https://
 ## machine learning
 
 - **[Domain-Aligned Pretraining for Ultrasound Bladder Segmentation](https://github.com/HenryVu27/thormed)**: labeled bladder ultrasound is scarce, and ImageNet features are a poor match for it. Pretrains encoders on other ultrasound organs instead, and keeps them accurate at 4-bit weights. NIH-funded work at ThorMed. [Paper](https://github.com/HenryVu27/thormed/blob/main/Thormed_ISBI_New.pdf)
-- **[human](https://github.com/HenryVu27/human)**: AI-written prose keeps reading as AI, even after heavy rewriting. Trains local writers on human essayists to find out what a commercial detector is really reading; so far, it is who chose the content more than the wording.
+- **[human](https://github.com/HenryVu27/human)**: AI-written prose keeps reading as AI, even after heavy rewriting. Trains local writers on human essayists to find out what a commercial detector is really reading; so far, it is who chose the content more than the wording. In progress.
 - **[inference](https://github.com/HenryVu27/inference)**: the way to understand LLM serving is to build it. An inference engine from scratch for Qwen2.5-7B on one consumer GPU. In progress.
 - **[zuco](https://github.com/HenryVu27/zuco)**: can reading be decoded from brain signals and eye movements together? A CNN and Transformer model on the ZuCo EEG and eye-tracking dataset.
 - Smaller medical imaging work: [samus-masks](https://github.com/HenryVu27/samus-masks) (bladder masks from the SAMUS foundation model) and [polyps](https://github.com/HenryVu27/polyps) (U-Net baselines on Kvasir-SEG and BUSI).
@@ -37,7 +37,7 @@ Previously researched online algorithms and multi-armed bandits [@Amii](https://
 
 ## music
 
-- **[pianolens](https://github.com/HenryVu27/pianolens)**: unlike most instruments, a piano performance comes down to a few controls per note: when the key goes down, how hard, when it lifts, and the pedal. So playing can be measured, and scored against experts on correctness, control, shaping and interpretation. So far, what experts share is low-dimensional and the rest is individuality, so interpretation is judged against the range of expert performances rather than one right answer.
+- **[pianolens](https://github.com/HenryVu27/pianolens)**: unlike most instruments, a piano performance comes down to a few controls per note: when the key goes down, how hard, when it lifts, and the pedal. So playing can be measured, and scored against experts on correctness, control, shaping and interpretation. So far, what experts share is low-dimensional and the rest is individuality, so interpretation is judged against the range of expert performances rather than one right answer. In progress.
 
 ## writing and teaching
 
