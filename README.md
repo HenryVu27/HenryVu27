@@ -7,7 +7,7 @@ Previously researched online algorithms and multi-armed bandits [@Amii](https://
 
 ## now
 
-- Lead engineer at eXRealityAI, building situationally aware agents for the physical world.
+- Lead ML engineer at eXRealityAI, building situationally aware agents for the physical world.
 
 ## philosophy
 
